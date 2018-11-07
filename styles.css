@@ -1,0 +1,66 @@
+html{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/112/100/non_2x/free-strass-vector-gold-glitter-texture-on-black-background.jpg");
+   color: white;
+   text-align: center;
+}
+.title{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 64px;
+    color: gold;
+}
+img{
+        width: 300px;
+}
+.anime1 {
+    font-family: 'Indie Flower', cursive;
+    height: 40px;
+}
+.anime {
+    font-family: 'Indie Flower', cursive;
+    height: 10px;
+}
+.animeM {
+    font-family: 'Varela Round', sans-serif;
+    height: 10px;
+}
+.animeB{
+    font-family: 'Cinzel', serif;
+    height: 10px;
+}
+p {
+    font-family: 'Source Serif Pro', serif;
+}
+.Kdrama{
+    font-family: 'Lobster', cursive;
+    height: 40px;
+}
+.kdrama {
+    font-family: 'Amatic SC', cursive;
+    height: 10px;
+}
+.kdramaG {
+    font-family: 'Merienda', cursive;
+    height: 13px;
+}
+.americanshowO{
+    font-family: 'Cinzel', serif;
+    height: 10px;
+}
+.americanshow {
+    font-family: 'Anton', sans-serif;
+    height: 15px;
+}
+.americanshowt{
+   font-family: 'Shadows Into Light', cursive;
+    height:10px;
+}
+.gameg {
+    font-family: 'Bungee', cursive;
+}
+.game {
+    font-family: 'VT323', monospace;
+    height: 20px;
+}
+.gamep {
+    font-family: 'Shadows Into Light', cursive;
+}
